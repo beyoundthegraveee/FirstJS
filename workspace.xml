@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53125ddf-62ed-451c-bff7-8e52f7f1eae5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G8IXzEHaW5erEaHV9zDrwp1Y4o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/NodeJS/node.exe&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;D:/NodeJS/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jacke\IdeaProjects\Parallax" />
+      <recent name="C:\Users\jacke\IdeaProjects\Parallax\Main folder" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ap.js" type="NodeJSConfigurationType" path-to-node="D:/NodeJS/node" nameIsGenerated="true" node-parameters="$AffectedModuleNames$" path-to-js-file="ap.js" working-dir="$PROJECT_DIR$/JS">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53125ddf-62ed-451c-bff7-8e52f7f1eae5" name="Changes" comment="" />
+      <created>1665763829433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665763829433</updated>
+      <workItem from="1665763830646" duration="660000" />
+      <workItem from="1665931079131" duration="6310000" />
+      <workItem from="1666197463410" duration="1475000" />
+      <workItem from="1666198962064" duration="684000" />
+      <workItem from="1666199951343" duration="1938000" />
+      <workItem from="1666393850337" duration="158000" />
+      <workItem from="1666535090019" duration="3897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
